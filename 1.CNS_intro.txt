@@ -1,0 +1,35 @@
+Introduction
+-----------------------
+-> Networking is everywhere
+-> Networks supports the way we learn
+-> Networks supports the way we communicate
+-> Networks supports the way we work
+-> Networks supports the way we play
+
+Computer Network 
+-----------------------------------
+A computer network is a set of nodes connected by communicating links.
+
+-> A node can be a computer, printer or any other device capable of 
+sending /receiving data generation by other nodes in the network.
+Eg: computer,server,printer,security cam,switches,bridges,routers,etc.
+
+-> A communication link can be wired link or wireless link.The link 
+carries the information.
+
+A computer network is mainly used for Resource Sharing.
+
+
+End devices
+-----------------------
+The devices which are the source or destination in the communication 
+are called as end devices.
+Eg: PC,smartphn,server,etc.
+
+
+Intermediate Devices
+----------------------------------------
+The devices which forward the data from one device to anthor side is 
+known as intermediate device
+Eg : Router,Internet cloud, cell Tower,etc.
+

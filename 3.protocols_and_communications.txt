@@ -1,0 +1,101 @@
+Data Communication
+------------------------------------------
+Data communications are the exchange of data between two nodes via
+some from link (transformation medium) such as a cable.
+
+Data Flow
+-------------------
+Flow of data from one node to anthor node
+-->Simplex
+-->Half Duplex
+-->Full Duplex
+
+        Simplex
+        -----------------
+        communication is always unidirectional.One device can transmit and 
+        the other device will receive.
+        Eg: Keyboard, Traditional monitors.
+
+        Half Duplex
+        ----------------------
+        communication is in both directions but not at the same time.If one
+        device is sending,the other can only recieve,and vice versa.
+        Eg: walkie-Talkies.
+ 
+       Full Duplex or Duplex
+       --------------------------------------
+       communication is in both directions simultaneously.Device can send
+       and receive at the same time.
+       Eg: telephone line.
+
+
+Protocols
+------------------
+All communication schemes will have the following things in common
+--> Source or sender
+-->Destination or receiver
+-->Channel or media
+Rules or protocals govern all methods of communication.
+
+def
+------
+   It is a set of rules that govern data communication. 
+   protocal determines:
+          ->what is communicated ?
+          ->how it is communicated ?
+          ->when it is communicated ?
+
+Protocols in Network Communication
+----------------------------------------------------------------
+*Message encoding
+*Message formatting and encapsulation
+*Message timing
+*Message size
+*Message delivery options
+
+         Message encoding
+         -------------------------------------
+         Message  --->   Encoder   ---> transmitter ---> Transmission
+           source             (signal)                                      Medium
+                                                                                           |
+                                    Message   <---- Decoder <--- Receiver
+                                  Destination             (signal)
+
+
+         Message formatting and encapsulation
+         ------------------------------------------------------------------------
+         Agreed format. Encapsulate the information to idetify the sender 
+         and the receiver rightly.
+
+        Message Size
+        --------------------------------
+        Humans break long messages into smaller parts or sentences if not
+        long msgs must also be broken into smaller pieces to travel across a
+        network.
+ 
+       Message timing
+       -----------------------------
+       Flow control and response timeout will come under message timing.
+
+       Message delivery options 
+       ----------------------------------------------
+       *unicast -- 1 to 1
+       *Multicast -- 1 to many
+       *Boardcast -- 1 to all
+
+
+
+PEER - To - PEER Network
+-------------------------------------------------
+-->No centeralized administration.
+--> All peers are equal.
+-->simple sharing applications.
+-->Not scalable.
+
+Client Server Network
+------------------------------------------
+-->Centeralized administration.
+-->Request-Response model
+-->Scalable
+-->server may be overloaded
+

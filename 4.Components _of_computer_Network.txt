@@ -1,0 +1,32 @@
+Components of a Computer Network
+------------------------------------------------------------------
+1.Nodes
+2.Media
+3.Services
+
+Nodes
+-------------
+ End nodes(end devices)   --> pc,network printers,smart phn,...etc
+ Intermediary nodes    --> switches,wireless accesspoint , Hubs ,Routers,
+                                       Security Devices(Fire wall) , Bridges , Repeater,
+                                       cell Tower.
+
+Media
+-------------
+Wired Medium (Guided Medium) --> ethernet straight-through cable,
+                                                             ethernet crossover cable,
+                                                             fiber optical cable,coaxial cable,
+                                                             USB cable.
+
+Wireless Medium(Unguided Medium) --> Infrared( short range -Tv remote)
+                                                                   Radio (bluetooth, wifi ),
+                                                                  Microwaves ( Cellular System),
+                                                                  Satellite( long range - GPS ).
+
+
+Services
+------------------
+e-mail , storage services ,File sharing , instant messaging , online games,
+voice over IP ,video telephony , World Wide Web.
+
+

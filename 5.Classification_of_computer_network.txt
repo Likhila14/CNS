@@ -1,0 +1,36 @@
+Classification of Computer Networks
+--------------------------------------------------------------------
+1. Local Area Network (LAN)
+2. Metropolitan Area Network (MAN)
+3. Wide Area Network (WAN)
+
+Local Area Network (LAN)
+---------------------------------------------
+A Local Area Network (LAN) is a computer network that interacts 
+computers within a limited area such as a residence,school,university,etc
+
+LAN-Devices :
+*Wired LAN (ethernet - Hub,Switch)
+*Wireless LAN (Wifi)
+
+Metropolitan Area Network (MAN)
+----------------------------------------------------------
+A Metropolitan Area Network (MAN) is a computer network that 
+interconnects users with computer resourses in a geographic region of 
+the size of a metropolitian area (city).
+
+MAN - Devices
+* Switches/Hub
+* Routers/Bridges
+
+ Wide Area Network (WAN)
+-----------------------------------------------
+A Wide Area Network (WAN) is a telecommunication network that 
+extends over a large geographical area for the primary purpose of
+computer networking.
+ 
+WAN-Devices
+*End devices and intermediate devices (or) Internet
+
+
+

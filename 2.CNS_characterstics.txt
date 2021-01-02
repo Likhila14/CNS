@@ -1,0 +1,28 @@
+Basic characterstics of Computer Network
+---------------------------------------------------------------------------
+--> Fault Tolerance
+-->Scalability
+-->Quality of Service(QoS)
+-->Security
+
+Fault Tolerance
+----------------------------
+The ability to continue working despite failures and Ensure no loss 
+of service.
+
+Scalabity
+----------------------
+The ability to grow based on the needs and have good performance 
+after growth.
+
+Quality of Service(QoS)
+---------------------------------------------
+The ability to set priorities and manage data traffic to reduce data loss,
+delay,etc.
+
+Security
+--------------------
+The ability to prevent unauthorized access,Misuse and Forgery.
+The ability to provide confidentiality,Integrity and Availability.
+
+
