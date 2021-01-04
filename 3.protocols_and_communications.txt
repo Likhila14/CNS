@@ -56,10 +56,10 @@ Protocols in Network Communication
          Message encoding
          -------------------------------------
          Message  --->   Encoder   ---> transmitter ---> Transmission
-           source             (signal)                                      Medium
-                                                                                           |
-                                    Message   <---- Decoder <--- Receiver
-                                  Destination             (signal)
+         source        (signal)                              Medium
+                                                               |
+                               Message   <----  Decoder <--- Receiver
+                             Destination       (signal)
 
 
          Message formatting and encapsulation
