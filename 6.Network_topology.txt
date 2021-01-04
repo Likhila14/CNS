@@ -1,0 +1,67 @@
+Network Topology
+---------------------------------
+Arrange of nodes of a computer netwok.
+simply---> Topology = Layout.
+
+Topology can be physical and logical
+
+Physical Topology and Logical topology
+------------------------------------------------------------------------
+Physical Topology - Placement of various nodes.
+Logical Topology - Deals with the data flow in the network.
+
+Various Network Topologies
+--------------------------------------------------
+-->Bus
+-->Ring
+-->Star
+-->Mesh
+-->Hybrid
+
+1.Bus Topology
+-------------------------------
+*All data transmitted between nodes in the network is transmitted over 
+this common transmission medium and is able to received by all nodes 
+in the network simultaneously.
+*A signal containing the adress of the intended receiving machine 
+travels from a source machine in both directions to all machines 
+connected to the bus until it finds the intended recipient.
+
+advantages : only one wire (less expensive)
+                       suited for temporary network.
+                        Node failures does not affect others.
+
+disadvantages: Not fault tolerant (No redundancy)
+                          Limited cable length.
+                          No security.
+
+       ---------------------|----------|----------------------
+
+2.Ring Topology
+-------------------------------
+*A ring topology  is a bus topology in a closed loop.
+*peer-to-peer LAN topology.
+*Two connections : one to each of its nearest neighbors.
+*Unidirectional.
+*Sending and receiving data takes palce with the help of a TOKEN.
+
+advantages : Performance is better than Bus topology.
+                      Can cause battleneck due to weak links.
+                      All nodes with equal access.
+
+disadvantanges: Unidirectional.Single point of failure will affect the 
+                            whole network.
+                            Increases in load so decreases in performance.
+                            No security.
+
+3.Star Topology
+------------------------------
+* Every node is connected to a central node called a hub or switch.
+*Centeralized Management.
+* All traffic must pass through the hub or switch.0
+       
+
+
+
+
+
