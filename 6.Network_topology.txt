@@ -58,7 +58,39 @@ disadvantanges: Unidirectional.Single point of failure will affect the
 ------------------------------
 * Every node is connected to a central node called a hub or switch.
 *Centeralized Management.
-* All traffic must pass through the hub or switch.0
+* All traffic must pass through the hub or switch.
+
+advantages: Easy to design and implement.
+                      Centeralized adminstration.
+                      Scalable.
+
+disadvantages: Single point of failure affects the whole network.
+                          Bottlenecks due to overloaded switch/Hub.
+                          Increased cost due to switch/hub.
+
+We have extended star Topology which is joined two star network by 
+repeater.
+
+
+4.Mesh Topology
+--------------------------------
+*Each node is directly connected to every other nodes in the network.
+*Fault tolerant and reliable.
+
+advantages : Fault tolerant
+                      Reliable
+
+disadvantages: Issues with broadcasting messages.
+                          Expensive and impractical for large network.
+
+Hybrid Topology
+-----------------------------------
+ Hybrid topology contains one or more types of topologies.
+
+
+
+
+
        
 
 
