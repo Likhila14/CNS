@@ -1,0 +1,32 @@
+Switching
+--------------------
+
+*Switching in computer network helps in deciding the best route for data
+transmission if there are multiple paths in a larger network.
+* one - to -one connection.
+
+Switching techniques
+-----------------------------------------
+1. circuit switching
+2. Message switching
+3.Packet  switching
+         *Datagram approach
+         * Virtual circuit Approach
+
+1. Circuit Switching
+------------------------------------
+*A dedicated path is established between the sender and receiver.
+*Before data tranfer,connection will be established first.
+* eg: Telephone network.
+
+3 phases in circuit switching 
+   1. connection established.
+   2.Data transfer.
+   3.Connection Disconnection.
+
+2. Message Switching
+---------------------------------------
+* Store and forward mechanism.
+*Message is transffered as a complete unit and forwarded using store
+  and forward mechanism at the intermediary node.
+* Not suited for streaming media and real-time applications.

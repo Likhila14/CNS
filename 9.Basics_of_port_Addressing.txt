@@ -1,0 +1,21 @@
+What actually happens (deriving from analogy)
+
+suppose a parcel have reached u from anthor state or country
+
+Reaching our city = reaching our network(IP Address)
+Reaching our apartment = reaching the host(MAC Address)
+Reaching the right person = Reaching the right process(port Address)
+
+Port address or Port number
+-----------------------------------------------------
+*In a node many processes will be running.
+*Data which are sent/received must reach the right process.
+*Every process in a node is uniquely identified using port number.
+*port = communication endpoint.
+*Fixed port numbers and dynamic port numbers(0 - 65535)
+
+
+Before sending dta, any node must
+*Attach source IP address and destination IP address.
+*Attach source MAC address and destination MAC address.
+*Attach source port number and destination port number.

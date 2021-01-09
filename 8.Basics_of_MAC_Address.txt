@@ -1,0 +1,31 @@
+MAC Address
+----------------------------
+MAC stands for Media Acces Control.
+
+*Every node in the LAN is identified with the help of address.
+*IP Address = Location of a person.
+*MAC Address = Name of the person.
+
+*Physical address or Hardware Address.
+*Unique.
+*Cannot be changed.
+*Assigned by the manufacturer.
+*Represented in hexadecimal (48bits).
+
+Difference between IP Address and MAC Address
+----------------------------------------------------------------------------------------
+IP Adreess
+
+1. Needed for communication.
+2. 32 bits.
+3. Represented in Decimal.
+4. Router needs IP Address to forward data.
+5. eg:10.10.23.56
+
+MAC Address
+
+1. Needed for communication.
+2. 48 bits.
+3. Represented in hexadecimal.
+4. Switch needs MAC Address to forward data.
+5. eg:  EP-5C-67-64-D2-55
